@@ -15,3 +15,5 @@
 - 레버 구조를 통해 적은 힘으로 작동 가능
 - 일괄 돌출 방식의 한계를 극복하기 위해 지면과 비접촉 영역부터 순차적으로 전개되는 구조 채택
 
+![prototype](https://github.com/user-attachments/assets/8410f7ed-c0a3-4245-a84a-12f56582dcee)
+
